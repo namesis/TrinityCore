@@ -10,6 +10,7 @@
 
 set(scripts_STAT_SRCS
   ${scripts_STAT_SRCS}
+  Custom/Top5_Killers.cpp
 )
 
 message("  -> Prepared: Custom")
